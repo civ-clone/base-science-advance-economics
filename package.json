@@ -13,7 +13,8 @@
   "files": [
     "Economics.js",
     "Economics.d.ts",
-    "Economics.js.map"
+    "Economics.js.map",
+    "Economics.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
